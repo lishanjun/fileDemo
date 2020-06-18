@@ -68,3 +68,7 @@ this.$refs.lFile.upload({
 
 
 ```
+---
+关于ios上传status=0,需要服务端开启允许跨域
+![Image text](https://github.com/lishanjun/fileDemo/blob/master/static/header.png)
+---
